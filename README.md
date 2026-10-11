@@ -1,4 +1,4 @@
-# topics considered for portfolio
+# topics considered for portfolio.
 
 1. E2E test automation project (Tech stack includes: Typescript programming language, Playwright framework, CI/CD integration, POM used for development)
 2. Performance testing (Jmeter is used for performing tests)
