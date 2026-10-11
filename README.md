@@ -7,3 +7,4 @@
 5. CI/CD integration(Intergate the tests into the pipeline and create a job for tests to run)
 6. Checking the coverage of code using unit tests(Generate the tests using some automated tests generated tools and measure the code coverage)
 7. Testing at packet level using tool like wireshark(For this use wireshark and perform tests till or upto medium level)
+8. Working with different design patterns of the projects and compare the performances of each.
