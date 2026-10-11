@@ -1,4 +1,4 @@
-# mutationAnalysis-vs-AI
+# topics considered for portfolio
 
 1. E2E test automation project
 2. Performance testing
